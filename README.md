@@ -8,12 +8,12 @@ ShopEase is a full-featured, web-based e-commerce platform built using the Java 
 - **Product Management**: Comprehensive CRUD operations for managing product listings, categories, and tags.
 - **Order Management**: Efficient order processing, tracking, and management.
 - **Payment Integration**: Support for various payment methods and secure transaction handling.
-- **Shopping Cart and Wishlist**: Convenient shopping cart functionality for customers.
+- **Shopping Cart**: Convenient shopping cart functionality for customers.
+- **Reviews and Ratings**: Allow customers to leave reviews and ratings for products.
 
 ## Tech Stack
 
 - **Backend**: Java, Hibernate
-- **Frontend**: HTML, CSS, JavaScript, Thymeleaf
 - **Database**: MySQL
 - **Build Tool**: Maven
 - **Version Control**: Git
